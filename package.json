@@ -3,6 +3,7 @@
 	"author": "Selmani",
 	"description": "this is just a description",
 	"keywords": ["freecodecamp", "test", "hands-on"],
+	"license": "nothing",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
